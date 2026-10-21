@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "browser": "Microsoft Edge headless, isolated profile",
+  "checks": [
+    "initial core scope and count",
+    "case-insensitive DOI retrieval",
+    "empty-state search",
+    "collection and pagination",
+    "load more",
+    "year filter",
+    "mobile viewport has no horizontal overflow"
+  ]
+}

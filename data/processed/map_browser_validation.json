@@ -1,0 +1,18 @@
+{
+  "status": "pass",
+  "target": "file:///C:/Users/Administrator/Documents/Codex/2026-10-21/new-chat/work/cpi-research-dataset-public/map.html",
+  "browser": "Microsoft Edge headless isolated profile",
+  "checks": [
+    "14 topics rendered from broad corpus",
+    "topic node selects matching source records",
+    "record search and empty state",
+    "scope includes 43 core plus 5 context records",
+    "topic threshold changes visible edge count",
+    "year selection filters papers",
+    "citation graph uses 479 nodes and 487 known edges",
+    "citation selection and directed highlighting",
+    "zoom modifies viewBox",
+    "desktop has no horizontal overflow",
+    "mobile has no horizontal overflow"
+  ]
+}

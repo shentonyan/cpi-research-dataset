@@ -1,0 +1,489 @@
+{
+  "method": "fixed-seed model-assisted title spotcheck; not independent human screening",
+  "seed": 20261022,
+  "records": [
+    {
+      "id": "7c5d4714929d3f57",
+      "title": "Introduction to the Internet of Things",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "1bf4cda56663a5b0",
+      "title": "Cyber-physical security for ports infrastructure",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "c7b324eb1949b9a8",
+      "title": "Catastrophic Cyber-Physical Malware",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "5c7f25b47645dfe3",
+      "title": "Consensus mechanism for software-defined blockchain in internet of things",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "2417ecc791b1b0cc",
+      "title": "Study Abroad and the Internet: Physical and Virtual Context in an Era of Expanding Telecommunications",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "c87386156f670be9",
+      "title": "Auxiliary analysis of digital platform using internet of things technology in physical education teaching",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "c456826f453c9804",
+      "title": "Research on edge-intelligent IoT collaborative perception and adaptive spatial design optimization for urban digital twins",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "1fa5e6d24a4b4ee7",
+      "title": "Evidenz im Internet/Evidence on the internet",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "bc26fae4806f1428",
+      "title": "Internet Reviews",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "49b1ba77b9fd0038",
+      "title": "Survey on digital twins for natural environments: A communication network perspective",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "6127a5685d6d6f19",
+      "title": "Real-Time Data Imputation for Low Inertia Nanogrid Digital Twins",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "9f38670d4c65324a",
+      "title": "Riding the Waves of Digital Transformation in Construction – Chances and Challenges Using Digital Twins",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "c6763a7ac40d8779",
+      "title": "A predictive model for problematic internet use based on children's physical activity data",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "065de34aafb0b533",
+      "title": "Security and Privacy in the IPv6-Connected Internet of Things ............................. SHAHID RAZA, CHAMATH KEPPITIYAGAMA, AND THIEMO VOIGT",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "a38d6ea769f6b0fc",
+      "title": "Logistics",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "bc5a0dfd4af81012",
+      "title": "Internet",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "31889a09934be83b",
+      "title": "Relationships between Problematic Internet Use, Physical Activity, and Mental Health in University Students",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "79e5ad9247da7c14",
+      "title": "东莞莞篮村BA网络报道中的城市品牌联想建构",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "46d169f2affb3cbc",
+      "title": "Enhancing Plant Disease Detection with EfficientNetB3: A Multilabel Classification Approach",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "e095994c0a54fd9f",
+      "title": "Digital Twins in Architecture",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "8d747a46eef8e037",
+      "title": "Internet based online purchasing vs. purchasing in physical stores (offline)",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "1b331bdd89df0f85",
+      "title": "INTERNET ECONOMY",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "b8f61e889ac86a17",
+      "title": "Improving the Validity of Lifelogging Physical Activity Measures in an Internet of Things Environment",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "24fabc799996a839",
+      "title": "Message from the ReISOC 2011 Workshop Chairs",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "0c79fcded5332b47",
+      "title": "浅谈预算执行联网审计",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "ae44a3e469d788cf",
+      "title": "Computer-Assisted Physical Education Guiding Paradigm under Internet and Multimedia Environment",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "8776141d2b30950b",
+      "title": "Harnessing Synergy",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "fbd1c836e62fc94a",
+      "title": "Research on the Physical Training under the Internet Environment",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "c2b721554caffc26",
+      "title": "Double Nested Internet of Things for Intelligent Management of Police Equipment",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "131d98ae672af1db",
+      "title": "“互联网＋”背景下大学英语混合教学模式探究",
+      "tier": "excluded",
+      "rule": "E1_no_topic_signal_in_available_title_abstract",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "99a5082397d51e7c",
+      "title": "Cloud manufacturing: a computing and service-oriented manufacturing model",
+      "tier": "reference_context",
+      "rule": "B1_cited_by_seed_not_directly_screened_as_CPI",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "500f3e20d142dc2c",
+      "title": "Two-Echelon Van-Robot Routing Problem with Modular Parcels in Physical Internet Paradigm",
+      "tier": "physical_internet",
+      "rule": "I2_PI_title",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "6521bc6307caaa21",
+      "title": "Ghosts in the Machine: How Marketing and Human Capital Investments Enhance Customer Growth When Innovative Services Leverage Self-Service Technologies",
+      "tier": "reference_context",
+      "rule": "B1_cited_by_seed_not_directly_screened_as_CPI",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "5fd8237f9b919f51",
+      "title": "Containers monitoring through the Physical Internet: a spatial 3D model based on wireless sensor networks",
+      "tier": "physical_internet",
+      "rule": "I2_PI_title",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "9c73d4ab4f2cf1e0",
+      "title": "Interactive Service and Blockchain Traceability in a Cyber Physical Internet Service Network",
+      "tier": "core_cpi",
+      "rule": "I1_CPI_phrase_and_logistics_context",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "8082903190dca094",
+      "title": "Towards a Human-Centric Physical Internet: The Next Digital Transition",
+      "tier": "physical_internet",
+      "rule": "I2_PI_title",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "8f4b6c81881987eb",
+      "title": "From a literature review to a conceptual framework of enablers for smart manufacturing control",
+      "tier": "reference_context",
+      "rule": "B1_cited_by_seed_not_directly_screened_as_CPI",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "d58c448ba214d1b1",
+      "title": "Spatial-temporal traceability for cyber-physical industry 4.0 systems",
+      "tier": "cpi_context",
+      "rule": "M1_source_page_checked_curated_scope",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "a1c81452b085754b",
+      "title": "A Survey of Indoor Localization Systems and Technologies",
+      "tier": "reference_context",
+      "rule": "B1_cited_by_seed_not_directly_screened_as_CPI",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "595ed1d33670202a",
+      "title": "Current status and advancement of cyber-physical systems in manufacturing",
+      "tier": "reference_context",
+      "rule": "B1_cited_by_seed_not_directly_screened_as_CPI",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "ac8e12ee6c34d087",
+      "title": "Operationalising Physical Internet Principles in Neighbourhood Urban Logistics: The IKIGAI Hybrid Fixed–Mobile Micro-Hub Living Lab",
+      "tier": "physical_internet",
+      "rule": "I2_PI_title",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "b764c770cdee382d",
+      "title": "Peer Review Report For: Towards Hyperconnected Zero-Emission Logistics: A Systematic Review of Enabling Technologies within the HOLOGISTICS Project [version 1; peer review: 1 not approved]",
+      "tier": "reference_context",
+      "rule": "B2_peer_review_report_not_a_research_article",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "4f8cff92a0e360d7",
+      "title": "1 bit encoding–decoding-based event-triggered fixed-time adaptive control for unmanned surface vehicle with guaranteed tracking performance",
+      "tier": "reference_context",
+      "rule": "B1_cited_by_seed_not_directly_screened_as_CPI",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "593d00c2feb40e86",
+      "title": "Unlocking the Potential of the Physical Internet: a Trust-enabling Decentralized Process Sharing Connector",
+      "tier": "physical_internet",
+      "rule": "I2_PI_title",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "b22340d29394658f",
+      "title": "Logistics Response to the Industry 4.0: the Physical Internet",
+      "tier": "physical_internet",
+      "rule": "I2_PI_title",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "b50de5c5e88a7d12",
+      "title": "Physical internet drone logistics model: Optimizing cost and energy efficiency for urban delivery systems",
+      "tier": "physical_internet",
+      "rule": "I2_PI_title",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "8475a2fa1e215fdc",
+      "title": "Reconfigurable Physical Internet Driven Urban Distribution Network",
+      "tier": "physical_internet",
+      "rule": "I2_PI_title",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "c8a7c241bb4da177",
+      "title": "Online Pricing with Offline Data: Phase Transition and Inverse Square Law",
+      "tier": "reference_context",
+      "rule": "B1_cited_by_seed_not_directly_screened_as_CPI",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "12b3daebead9bf82",
+      "title": "A survey of dynamic scheduling in manufacturing systems",
+      "tier": "reference_context",
+      "rule": "B1_cited_by_seed_not_directly_screened_as_CPI",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "fb4562ec2a64b81f",
+      "title": "Properties of scoring auctions",
+      "tier": "reference_context",
+      "rule": "B1_cited_by_seed_not_directly_screened_as_CPI",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "62f4a85a76441fde",
+      "title": "THE CONCEPT OF AUGMENTED LOGISTICS AND PHYSICAL INTERNET INTEGRATION",
+      "tier": "physical_internet",
+      "rule": "I2_PI_title",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "10a268e832b85a5c",
+      "title": "Federated Learning-Based Secure Computing Mechanism for Consumer Internet of Vehicles-Based Transportation Cyber-Physical Systems",
+      "tier": "enabling_research",
+      "rule": "I4_adjacent_logistics_technology_title",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "267ea199ce10fee6",
+      "title": "Meta与Physical Internet联姻",
+      "tier": "projects_news",
+      "rule": "M1_source_page_checked_curated_scope",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "dded57d807ee636b",
+      "title": "Internet of Perishable Logistics",
+      "tier": "reference_context",
+      "rule": "B1_cited_by_seed_not_directly_screened_as_CPI",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "43ed8aa559ed5659",
+      "title": "Real-time scheduling for a smart factory using a reinforcement learning approach",
+      "tier": "reference_context",
+      "rule": "B1_cited_by_seed_not_directly_screened_as_CPI",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "161e8acc53706955",
+      "title": "Designing Logistics Networks Resilient Against Multi-Period Disruptions Through the Physical Internet",
+      "tier": "physical_internet",
+      "rule": "I2_PI_title",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "0258a9a86208e294",
+      "title": "A Digital Twin-Based Approach for Designing and Multi-Objective Optimization of Hollow Glass Production Line",
+      "tier": "reference_context",
+      "rule": "B1_cited_by_seed_not_directly_screened_as_CPI",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "32c2c9ad2a30bf26",
+      "title": "Location Management of Cloud Forklifts in Finished Product Warehouse",
+      "tier": "reference_context",
+      "rule": "B1_cited_by_seed_not_directly_screened_as_CPI",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "f49dcd1dd6b67938",
+      "title": "Fostering trust in logistics collaboration: a physical internet perspective",
+      "tier": "physical_internet",
+      "rule": "I2_PI_title",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    },
+    {
+      "id": "4520a462b7f84da3",
+      "title": "Energy–Efficient Distribution of Resources in Cyber-Physical Internet of Things with 5G/6G Communication Framework",
+      "tier": "terminology_history",
+      "rule": "H1_CPI_name_without_logistics_context_manual_review_required",
+      "review_status": "model_title_scope_checked",
+      "review_note": "Supporting/background records are retained as context, not direct CPI evidence."
+    }
+  ],
+  "reviewed_on": "2026-10-22",
+  "scope": "Title and scope consistency only; not abstract/fulltext validity",
+  "finding": "One peer-review report moved to reference_context; no substantive CPI study inferred from report status."
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "doi": "10.1016/j.tre.2025.104051",
+    "url": "https://ira.lib.polyu.edu.hk/bitstream/10397/111680/1/1-s2.0-S1366554525000924-main.pdf",
+    "retrieved_date": "2026-10-22",
+    "status": "fetch_failed",
+    "error": "HTTPSConnectionPool(host='ira.lib.polyu.edu.hk', port=443): Read timed out. (read timeout=60)"
+  },
+  {
+    "doi": "10.1016/j.ifacol.2023.10.1160",
+    "url": "https://ira.lib.polyu.edu.hk/bitstream/10397/110365/1/1-s2.0-S240589632301563X-main.pdf",
+    "retrieved_date": "2026-10-22",
+    "status": "fetch_failed",
+    "error": "HTTPSConnectionPool(host='ira.lib.polyu.edu.hk', port=443): Max retries exceeded with url: /bitstream/10397/110365/1/1-s2.0-S240589632301563X-main.pdf (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
+  },
+  {
+    "doi": "10.21494/iste.op.2019.0422",
+    "url": "https://www.openscience.fr/IMG/pdf/iste_induprod19v2n1_5.pdf",
+    "retrieved_date": "2026-10-22",
+    "status": "link_only_license_not_confirmed",
+    "pages": 20
+  },
+  {
+    "doi": "10.1080/13675567.2026.2658585",
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/13675567.2026.2658585",
+    "retrieved_date": "2026-10-22",
+    "status": "fetch_failed",
+    "error": "403 Client Error: Forbidden for url: https://www.tandfonline.com/doi/pdf/10.1080/13675567.2026.2658585"
+  }
+]

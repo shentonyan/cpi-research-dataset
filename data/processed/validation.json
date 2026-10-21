@@ -1,0 +1,37 @@
+{
+  "status": "pass",
+  "checks": [
+    "unique record IDs and normalized DOIs",
+    "tier and total reconciliation",
+    "CSV / JSONL / SQLite / HTML record parity",
+    "SQLite integrity and FTS5 retrieval",
+    "RIS and BibTeX record counts",
+    "retained PDF checksums",
+    "all records explicitly not fulltext-reviewed"
+  ],
+  "summary": {
+    "publication_cutoff": "2026-10-21",
+    "built_on": "2026-10-22",
+    "unique_candidates": 5067,
+    "included_records": 1071,
+    "excluded_records": 3996,
+    "tiers": {
+      "core_cpi": 43,
+      "physical_internet": 548,
+      "enabling_research": 118,
+      "cpi_context": 5,
+      "terminology_history": 12,
+      "reference_context": 334,
+      "projects_news": 7,
+      "resource_portal": 4
+    },
+    "with_abstract": 0,
+    "with_doi": 990,
+    "archived_original_pdfs": 0,
+    "core_with_abstract": 0,
+    "core_records_are_not_unique_studies": true,
+    "core_critically_fulltext_reviewed": 0,
+    "source_abstract_available_at_retrieval": 465,
+    "release_mode": "public_metadata_only"
+  }
+}

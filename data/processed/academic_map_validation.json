@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "checks": [
+    "corpus checksum",
+    "topic membership and all cooccurrence weights",
+    "citation directions and deduplication against raw references",
+    "node endpoint coverage",
+    "core isolated-node retention",
+    "year and scope reconciliation"
+  ],
+  "citation_nodes": 479,
+  "citation_edges": 487
+}

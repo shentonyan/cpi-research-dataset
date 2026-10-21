@@ -1,0 +1,172 @@
+{
+  "cutoff": "2026-10-21",
+  "streams": [
+    {
+      "stream": "cpi_title",
+      "query": "Cyber-Physical Internet",
+      "field": "query.title",
+      "page": 1,
+      "returned": 500,
+      "reported_total_fuzzy_hits": 902022,
+      "retrieved_at": "2026-10-21T16:02:09.845380+00:00",
+      "request_url": "https://api.crossref.org/works?query.title=Cyber-Physical+Internet&rows=500&cursor=%2A&sort=score&order=desc&filter=until-pub-date%3A2026-10-21",
+      "cache": "data/raw/crossref_ranked_cpi_title_00.json"
+    },
+    {
+      "stream": "cpi_title",
+      "query": "Cyber-Physical Internet",
+      "field": "query.title",
+      "page": 2,
+      "returned": 500,
+      "reported_total_fuzzy_hits": 902022,
+      "retrieved_at": "2026-10-21T16:02:20.270651+00:00",
+      "request_url": "https://api.crossref.org/works?query.title=Cyber-Physical+Internet&rows=500&cursor=MTcuODQ0MTg5LDE1ODM1NjgxODgwMDAsMTAuMTAwNyUyRjk3OC0zLTAzMC00MzI3Ni04XzEy&sort=score&order=desc&filter=until-pub-date%3A2026-10-21",
+      "cache": "data/raw/crossref_ranked_cpi_title_01.json"
+    },
+    {
+      "stream": "cpi_all",
+      "query": "\"cyber-physical internet\"",
+      "field": "query",
+      "page": 1,
+      "returned": 500,
+      "reported_total_fuzzy_hits": 2986604,
+      "retrieved_at": "2026-10-21T16:02:14.771687+00:00",
+      "request_url": "https://api.crossref.org/works?query=%22cyber-physical+internet%22&rows=500&cursor=%2A&sort=score&order=desc&filter=until-pub-date%3A2026-10-21",
+      "cache": "data/raw/crossref_ranked_cpi_all_00.json"
+    },
+    {
+      "stream": "cpi_all",
+      "query": "\"cyber-physical internet\"",
+      "field": "query",
+      "page": 2,
+      "returned": 500,
+      "reported_total_fuzzy_hits": 2986604,
+      "retrieved_at": "2026-10-21T16:02:27.135831+00:00",
+      "request_url": "https://api.crossref.org/works?query=%22cyber-physical+internet%22&rows=500&cursor=MTkuNTI4MjEsMTcyMDcwMzgxMDAwMCwxMC4yMTM5JTJGc3Nybi40ODkxODUz&sort=score&order=desc&filter=until-pub-date%3A2026-10-21",
+      "cache": "data/raw/crossref_ranked_cpi_all_01.json"
+    },
+    {
+      "stream": "pi_title",
+      "query": "Physical Internet",
+      "field": "query.title",
+      "page": 1,
+      "returned": 500,
+      "reported_total_fuzzy_hits": 852856,
+      "retrieved_at": "2026-10-21T16:02:42.537450+00:00",
+      "request_url": "https://api.crossref.org/works?query.title=Physical+Internet&rows=500&cursor=%2A&sort=score&order=desc&filter=until-pub-date%3A2026-10-21",
+      "cache": "data/raw/crossref_ranked_pi_title_00.json"
+    },
+    {
+      "stream": "pi_title",
+      "query": "Physical Internet",
+      "field": "query.title",
+      "page": 2,
+      "returned": 500,
+      "reported_total_fuzzy_hits": 852856,
+      "retrieved_at": "2026-10-21T16:02:55.036255+00:00",
+      "request_url": "https://api.crossref.org/works?query.title=Physical+Internet&rows=500&cursor=MTIuMDMzNDM0LDEyMTIwNTQ1MjQwMDAsMTAuMTAxNiUyRmouam9tLjIwMDguMDUuMDAx&sort=score&order=desc&filter=until-pub-date%3A2026-10-21",
+      "cache": "data/raw/crossref_ranked_pi_title_01.json"
+    },
+    {
+      "stream": "pi_title",
+      "query": "Physical Internet",
+      "field": "query.title",
+      "page": 3,
+      "returned": 500,
+      "reported_total_fuzzy_hits": 852856,
+      "retrieved_at": "2026-10-21T16:03:05.774686+00:00",
+      "request_url": "https://api.crossref.org/works?query.title=Physical+Internet&rows=500&cursor=MTAuODk5NywxNzU5Mjc0MTA1MDAwLDEwLjEwMDclMkY5NzgtOTgxLTk2LTc1MTQtMl80MQ%3D%3D&sort=score&order=desc&filter=until-pub-date%3A2026-10-21",
+      "cache": "data/raw/crossref_ranked_pi_title_02.json"
+    },
+    {
+      "stream": "pi_title",
+      "query": "Physical Internet",
+      "field": "query.title",
+      "page": 4,
+      "returned": 500,
+      "reported_total_fuzzy_hits": 852856,
+      "retrieved_at": "2026-10-21T16:03:15.389292+00:00",
+      "request_url": "https://api.crossref.org/works?query.title=Physical+Internet&rows=500&cursor=MTAuMjc2MjcxLDE2NjQ0MTcxMDkwMDAsMTAuMTE1NSUyRjIwMjIlMkY5MjM5NjMy&sort=score&order=desc&filter=until-pub-date%3A2026-10-21",
+      "cache": "data/raw/crossref_ranked_pi_title_03.json"
+    },
+    {
+      "stream": "cpl_title",
+      "query": "Cyber physical logistics",
+      "field": "query.title",
+      "page": 1,
+      "returned": 300,
+      "reported_total_fuzzy_hits": 738740,
+      "retrieved_at": "2026-10-21T16:05:22.950901+00:00",
+      "request_url": "https://api.crossref.org/works?query.title=Cyber+physical+logistics&rows=300&cursor=%2A&sort=score&order=desc&filter=until-pub-date%3A2026-10-21",
+      "cache": "data/raw/crossref_ranked_cpl_title_00.json"
+    },
+    {
+      "stream": "dt_pi",
+      "query": "digital twins physical internet",
+      "field": "query",
+      "page": 1,
+      "returned": 300,
+      "reported_total_fuzzy_hits": 4175664,
+      "retrieved_at": "2026-10-21T16:02:35.358243+00:00",
+      "request_url": "https://api.crossref.org/works?query=digital+twins+physical+internet&rows=300&cursor=%2A&sort=score&order=desc&filter=until-pub-date%3A2026-10-21",
+      "cache": "data/raw/crossref_ranked_dt_pi_00.json"
+    },
+    {
+      "stream": "hyperconnected",
+      "query": "hyperconnected logistics",
+      "field": "query.title",
+      "page": 1,
+      "returned": 300,
+      "reported_total_fuzzy_hits": 63200,
+      "retrieved_at": "2026-10-21T16:02:51.196297+00:00",
+      "request_url": "https://api.crossref.org/works?query.title=hyperconnected+logistics&rows=300&cursor=%2A&sort=score&order=desc&filter=until-pub-date%3A2026-10-21",
+      "cache": "data/raw/crossref_ranked_hyperconnected_00.json"
+    },
+    {
+      "stream": "cpi_chinese",
+      "query": "元联网",
+      "field": "query",
+      "page": 1,
+      "returned": 200,
+      "reported_total_fuzzy_hits": 62728,
+      "retrieved_at": "2026-10-21T16:02:54.508789+00:00",
+      "request_url": "https://api.crossref.org/works?query=%E5%85%83%E8%81%94%E7%BD%91&rows=200&cursor=%2A&sort=score&order=desc&filter=until-pub-date%3A2026-10-21",
+      "cache": "data/raw/crossref_ranked_cpi_chinese_00.json"
+    },
+    {
+      "stream": "datacite_cpi",
+      "query": "\"cyber-physical internet\"",
+      "returned": 75,
+      "reported_total": 75,
+      "request_url": "https://api.datacite.org/dois?query=%22cyber-physical+internet%22&page%5Bsize%5D=1000",
+      "retrieved_at": "2026-10-21T16:07:10.607805+00:00",
+      "cache": "data/raw/datacite_cpi.json"
+    },
+    {
+      "stream": "datacite_pi",
+      "query": "titles.title:\"physical internet\"",
+      "returned": 206,
+      "reported_total": 206,
+      "request_url": "https://api.datacite.org/dois?query=titles.title%3A%22physical+internet%22&page%5Bsize%5D=1000",
+      "retrieved_at": "2026-10-21T16:07:16.432606+00:00",
+      "cache": "data/raw/datacite_pi.json"
+    }
+  ],
+  "errors": [
+    {
+      "doi": "10.48550/arxiv.2208.03635",
+      "error": "404 Client Error: Not Found for url: https://api.crossref.org/works/10.48550%2Farxiv.2208.03635"
+    },
+    {
+      "doi": "10.48550/arxiv.2302.09479",
+      "error": "404 Client Error: Not Found for url: https://api.crossref.org/works/10.48550%2Farxiv.2302.09479"
+    }
+  ],
+  "notes": [
+    "Crossref search is relevance-ranked, not Boolean exact matching.",
+    "Page caps are deliberate and must be disclosed.",
+    "DataCite search may match descriptions; titles are screened afterwards.",
+    "No OpenAlex key was available: OpenAlex was not queried.",
+    "No Scopus/WoS/CNKI subscription search was performed."
+  ]
+}

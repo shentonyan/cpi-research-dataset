@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+*.tmp
+.env
+work/
+# Local research materials are excluded from the public release.
+*.[pP][dD][fF]
+/library/
+/private/
+/local_only/
+/data/raw/
+/data/crossref_hits.jsonl
+/data/datacite_hits.json
+/data/supplemental_discovery.json
+/data/web_seed_records.json
+*.bundle

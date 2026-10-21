@@ -1,0 +1,92 @@
+[
+  {
+    "doi": "10.1016/j.aei.2024.102551",
+    "retrieved_at": "2026-10-21T16:01:57.183758+00:00",
+    "request_url": "https://api.crossref.org/works/10.1016%2Fj.aei.2024.102551"
+  },
+  {
+    "doi": "10.1016/j.eswa.2024.126003",
+    "retrieved_at": "2026-10-21T16:04:54.789618+00:00",
+    "request_url": "https://api.crossref.org/works/10.1016%2Fj.eswa.2024.126003"
+  },
+  {
+    "doi": "10.1016/j.tre.2026.104843",
+    "retrieved_at": "2026-10-21T16:04:54.370137+00:00",
+    "request_url": "https://api.crossref.org/works/10.1016%2Fj.tre.2026.104843"
+  },
+  {
+    "doi": "10.1016/j.cie.2026.112232",
+    "retrieved_at": "2026-10-21T16:04:55.274657+00:00",
+    "request_url": "https://api.crossref.org/works/10.1016%2Fj.cie.2026.112232"
+  },
+  {
+    "doi": "10.1109/JIOT.2025.3562803",
+    "retrieved_at": "2026-10-21T16:04:56.833925+00:00",
+    "request_url": "https://api.crossref.org/works/10.1109%2FJIOT.2025.3562803"
+  },
+  {
+    "doi": "10.1109/TITS.2025.3581569",
+    "retrieved_at": "2026-10-21T16:04:56.201196+00:00",
+    "request_url": "https://api.crossref.org/works/10.1109%2FTITS.2025.3581569"
+  },
+  {
+    "doi": "10.1108/IJRDM-01-2025-0042",
+    "retrieved_at": "2026-10-21T16:04:56.482397+00:00",
+    "request_url": "https://api.crossref.org/works/10.1108%2FIJRDM-01-2025-0042"
+  },
+  {
+    "doi": "10.1109/CASE59546.2024.10711556",
+    "retrieved_at": "2026-10-21T16:04:57.596330+00:00",
+    "request_url": "https://api.crossref.org/works/10.1109%2FCASE59546.2024.10711556"
+  },
+  {
+    "doi": "10.1016/j.jii.2025.100935",
+    "retrieved_at": "2026-10-21T16:04:58.025822+00:00",
+    "request_url": "https://api.crossref.org/works/10.1016%2Fj.jii.2025.100935"
+  },
+  {
+    "doi": "10.1016/j.tre.2026.104915",
+    "retrieved_at": "2026-10-21T16:04:58.264669+00:00",
+    "request_url": "https://api.crossref.org/works/10.1016%2Fj.tre.2026.104915"
+  },
+  {
+    "doi": "10.1016/j.trc.2024.104714",
+    "retrieved_at": "2026-10-21T16:03:33.321385+00:00",
+    "request_url": "https://api.crossref.org/works/10.1016%2Fj.trc.2024.104714"
+  },
+  {
+    "doi": "10.1016/j.trd.2024.104259",
+    "retrieved_at": "2026-10-21T16:03:34.712631+00:00",
+    "request_url": "https://api.crossref.org/works/10.1016%2Fj.trd.2024.104259"
+  },
+  {
+    "doi": "10.1109/ICNSC66229.2025.00056",
+    "retrieved_at": "2026-10-21T16:04:59.178056+00:00",
+    "request_url": "https://api.crossref.org/works/10.1109%2FICNSC66229.2025.00056"
+  },
+  {
+    "doi": "10.1016/j.aei.2025.103830",
+    "retrieved_at": "2026-10-21T16:04:59.840141+00:00",
+    "request_url": "https://api.crossref.org/works/10.1016%2Fj.aei.2025.103830"
+  },
+  {
+    "doi": "10.1080/13675567.2026.2655353",
+    "retrieved_at": "2026-10-21T16:05:00.978902+00:00",
+    "request_url": "https://api.crossref.org/works/10.1080%2F13675567.2026.2655353"
+  },
+  {
+    "doi": "10.1109/CASE69030.2026.11704537",
+    "retrieved_at": "2026-10-21T16:05:00.483213+00:00",
+    "request_url": "https://api.crossref.org/works/10.1109%2FCASE69030.2026.11704537"
+  },
+  {
+    "doi": "10.1109/CASE59546.2024.10711404",
+    "retrieved_at": "2026-10-21T16:05:01.201833+00:00",
+    "request_url": "https://api.crossref.org/works/10.1109%2FCASE59546.2024.10711404"
+  },
+  {
+    "doi": "10.2139/ssrn.4891853",
+    "retrieved_at": "2026-10-21T16:05:02.623801+00:00",
+    "request_url": "https://api.crossref.org/works/10.2139%2Fssrn.4891853"
+  }
+]

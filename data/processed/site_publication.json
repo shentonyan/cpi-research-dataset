@@ -1,0 +1,14 @@
+{
+  "project_id": "appgprj_6ad8e83f416c8191b40a2dbf4a6e809c",
+  "url": "https://cpi-research-atlas.shentonyan.chatgpt.site",
+  "status": "succeeded",
+  "version_id": "appgprj_6ad8e83f416c8191b40a2dbf4a6e809c~appgver_b03bd75f6b60819187862a360011a86b",
+  "deployment_id": "appgdep_6ad8eb66180881918f17e08c995d532a",
+  "access_mode": "custom",
+  "allowed_users": 1,
+  "allowed_editors": 0,
+  "allowed_groups": 0,
+  "external_visitors": 0,
+  "source_commit_sha": "12b87d660a87e1747b8048cc20dd59154e546bde",
+  "verified_client_date": "2026-10-22"
+}
