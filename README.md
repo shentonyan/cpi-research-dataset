@@ -18,7 +18,7 @@
 - **导入 Zotero**：[RIS 书目](data/processed/library.ris) · [BibTeX](data/processed/library.bib)
 - **分析**：[全部 CSV](data/processed/corpus.csv) · [核心 CSV](data/processed/core_cpi.csv) · [JSONL](data/processed/corpus.jsonl) · [SQLite](data/processed/library.sqlite)
 - **开始精读**：[研究提取表](data/processed/research_extraction_template.csv)
-- **核验**：[方法与覆盖缺口](docs/methodology.zh-CN.md) · [字段字典](docs/data-dictionary.md) · [实际统计](data/processed/summary.json)
+- **核验**：[方法与覆盖缺口](docs/methodology.zh-CN.md) · [字段字典](docs/data-dictionary.md) · [实际统计](data/processed/summary.json) · [PI/CPI网页线索与编码框架](docs/web-source-synthesis.zh-CN.md) · [外部来源台账](data/external_source_register.json)
 - **浏览**：克隆或下载仓库后，双击根目录 `index.html`。离线支持题名、作者、DOI、关键词检索，按范围与年份筛选；不启用公开 Pages。
 
 ## 当前覆盖
@@ -63,3 +63,5 @@ python scripts/search.py "routing AND carbon" --tier core_cpi
 标签由规则产生，不是已核验的方法分类。收录不表示支持论文结论；新闻、资助愿景、数值模拟、实验室演示和真实运营证据需要分别评价。术语历史不等于物流 CPI 直接研究。没有检出某个主题不证明研究空白。
 
 仓库与网站公开。PDF 原文、提取全文和原始摘要缓存不随公开版本发布。公开不等于对第三方材料统一授权，详见 [项目声明](DISCLAIMER.md)、[权利边界](RIGHTS.md)及[本地 PDF 工作方式](docs/pdf-workflow.zh-CN.md)。
+
+用户提供的行业网页和百科入口作为外部线索单独登记，不计入文献数量或学术证据。可读取页面的概念归纳、不可访问页面的状态，以及后续精读编码建议见 [PI/CPI网页线索与编码框架](docs/web-source-synthesis.zh-CN.md)。

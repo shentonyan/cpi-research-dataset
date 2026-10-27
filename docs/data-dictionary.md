@@ -31,4 +31,6 @@
 
 `possible_versions.json` lists normalized-title matches across identities. Similar titles with substantial wording differences can still be missed; data concept/version DOIs and thesis-derived articles need manual study-family linking.
 
+`data/external_source_register.json` is a separate ledger for supplied web pages and other non-corpus leads. Each entry records source type, publication and review dates when known, access status, evidence role, a short claim summary when readable, limitations, and permitted use in this project. These entries are intentionally excluded from `corpus.jsonl`, bibliographic exports, citation edges, and corpus counts unless a primary scholarly or institutional record is independently identified and screened.
+
 The bibliography omits project-news and portal entries, while the CSV/JSON/SQLite and offline viewer retain them. RIS/BibTeX can include preprints, posters and supporting data: import is not peer-review endorsement.
